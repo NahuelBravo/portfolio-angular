@@ -1,0 +1,38 @@
+:root{
+    font-size: 11px;
+}
+app-header{
+ display: flex;
+ flex-direction: row;
+ justify-content:center;
+ width: auto;
+ height: 2rem;
+ background-color: black;
+ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+app-about{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center; 
+}
+
+app-projects{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+app-contact{
+  display: flex;
+  justify-content: center;
+}
+
+.main-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-image: url(https://www.pngkit.com/png/full/139-1396634_girly-vector-geometric-pattern-triangle-abstract-geometric-background.png);
+  
+  
+}

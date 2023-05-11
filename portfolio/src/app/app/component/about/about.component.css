@@ -1,0 +1,16 @@
+img{
+    margin:1em 0;
+    height: 20em;
+    width: 20em;
+    border-radius: 50em;
+  }
+
+  p{
+    font-size: 1.3em;
+    margin: 0 2.2em 1em 2.2em;
+  }
+
+  span{
+    color: rgb(22, 128, 22);
+  }
+  
