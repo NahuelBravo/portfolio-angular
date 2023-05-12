@@ -1,5 +1,5 @@
 .project-container{
-    background-color: blue;
+    background-color: rgba(90, 87, 87, 0.514);
     width: 20rem;
     margin: 0.5em 0.5em;
     border-radius: 0.5em;
@@ -11,6 +11,7 @@
     flex-wrap: wrap;
     justify-content: center;
     color: black;
+    
   }
   
   h3{
@@ -26,4 +27,5 @@
   }
   p{
     font-size: 1.05em;
+    margin: 0.5em;
   }

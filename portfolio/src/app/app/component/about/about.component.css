@@ -1,16 +1,31 @@
 img{
-    margin:1em 0;
-    height: 20em;
-    width: 20em;
-    border-radius: 50em;
-  }
+  margin:1em;
+  height: 20em;
+  width: 20em;
+  border-radius: 50em;
+}
 
-  p{
-    font-size: 1.3em;
-    margin: 0 2.2em 1em 2.2em;
-  }
+h1{
+  font-size: 3em;
+  margin: 0;
+}
 
-  span{
-    color: rgb(22, 128, 22);
-  }
+p{
+  font-size: 1.3em;
+}
+
+span{
+  color: rgb(22, 128, 22);
+}
+
+.about-text{
+  display: flex;
+  justify-content: center;
+  align-items: space-around;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 0.664);
+  width: 50em;
+  padding: 2em;
+  border-radius: 2em;
+}
   
