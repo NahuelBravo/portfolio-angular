@@ -1,13 +1,29 @@
 a{
-    text-decoration: none;
-    color: rgb(22, 128, 22);
-  }
-  .links{
-    display: flex;
-    flex-direction: row;
-    width: 30em;
-    height: auto;
-    justify-content: space-around;
-    align-items: center;
-  }
+  color: white;
+  text-decoration: none;
+  width: 6em;
+  height: 2em;
+  display: flex;
+  justify-content: center;
+}
+
+a:hover{
+  color:black;
+  background-color: white;
+}
+
+a:active{
+  color:black;
+  background-color: white;
+}
+
+
+.links{
+  display: flex;
+  flex-direction: row;
+  width: 30em;
+  height: auto;
+  justify-content: center;
+  align-items: center;
+}
   
